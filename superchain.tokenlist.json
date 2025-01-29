@@ -682,6 +682,20 @@
       }
     },
     {
+      "name": "Go F*ck Yourself",
+      "symbol": "GFY",
+      "decimals": 9,
+      "logoURI": "https://gofuckyourselfcrypto.com/img/GFY_Lasereyes-Profile.ico",
+      "address": "0x2D9D7c64F6c00e16C28595ec4EbE4065ef3A250b",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "GFY",
+        "standardBridgeAddresses": {
+          "8453": "0xdb1e96F2Aee968F0bf833959b1a65b29A71a233b"
+        }
+      }
+    },
+    {
       "name": "ZynCoin",
       "symbol": "ZYN",
       "decimals": 18,
